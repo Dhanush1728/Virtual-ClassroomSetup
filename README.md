@@ -182,9 +182,6 @@ B.Tech – Artificial Intelligence and Data Science
 Sri Jayaram Institute of Engineering and Technology
 Gummidipoondi, Thiruvallur
 
-📧 Email: divyaprakash2836@gmail.com
- LinkedIn: www.linkedin.com/in/divya-dharshini-1728dd
+📧 Email: dhanush11092006@gmail.com
+ LinkedIn:www.linkedin.com/in/dhanush1728
 
-=======
-# Virtual-ClassroomSetup
->>>>>>> 5f5dcdfaf12ea6e912a425e3f97bea75bbf5b08d
