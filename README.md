@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Virtual-Classroom-Setup
 A 3D Virtual Classroom built in Unity 2022.3 LTS featuring chat-based Q&amp;A, realistic classroom environment, student avatars, and C# scripting. Includes UI, walls, ceiling, tables, chairs, and local AI-style tutor responses.
 # 🧑‍🏫 Virtual Classroom Setup (Unity 3D Project)
@@ -176,11 +177,14 @@ public class QAHandler : MonoBehaviour {
 
 **👩‍💻 Author**
 
-Dhanush S
-B.E - Compurt Science and Engineering
+Divyadharshini P
+B.Tech – Artificial Intelligence and Data Science
 Sri Jayaram Institute of Engineering and Technology
 Gummidipoondi, Thiruvallur
 
-📧 Email: dhanush11092006@gmail.com
- LinkedIn: www.linkedin.com/in/dhanush1728
+📧 Email: divyaprakash2836@gmail.com
+ LinkedIn: www.linkedin.com/in/divya-dharshini-1728dd
 
+=======
+# Virtual-ClassroomSetup
+>>>>>>> 5f5dcdfaf12ea6e912a425e3f97bea75bbf5b08d
